@@ -17,7 +17,7 @@
 <body class="antialiased">
 
     <h1>HELLO WORLD</h1>
-
+    <p>Hi! my name is {{$name}} {{$surname}} and this is my first project in Laravel</p>
 </body>
 
 </html>
