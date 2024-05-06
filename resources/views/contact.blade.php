@@ -15,6 +15,7 @@
 </head>
 
 <body class="antialiased">
+
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
         <div class="container d-flex justify-content-between">
             <div>💻</div>
@@ -37,10 +38,16 @@
         </div>
     </nav>
 
-    <div class="container-fluid text-center pt-5">
-        <h1>HELLO WORLD</h1>
-        <p>Hi! my name is {{$name}} {{$surname}} and this is my first project in Laravel</p>
+    <div class="container-fluid pt-5">
+        <h1 class="text-center">Contact me</h1>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Lorem,</li>
+            <li class="list-group-item">Ipsum</li>
+            <li class="list-group-item">Dolor.</li>
+        </ul>
+
     </div>
+
 
 </body>
 

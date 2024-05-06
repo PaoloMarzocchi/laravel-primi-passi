@@ -15,6 +15,7 @@
 </head>
 
 <body class="antialiased">
+
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
         <div class="container d-flex justify-content-between">
             <div>💻</div>
@@ -38,10 +39,9 @@
     </nav>
 
     <div class="container-fluid text-center pt-5">
-        <h1>HELLO WORLD</h1>
-        <p>Hi! my name is {{$name}} {{$surname}} and this is my first project in Laravel</p>
+        <h1>About me</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In, quia? Accusantium reiciendis quos at, aliquam dignissimos ex consectetur minima, facere non reprehenderit incidunt? Harum dolores officia delectus tempore ut neque?</p>
     </div>
-
 </body>
 
 </html>
